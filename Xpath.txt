@@ -1,0 +1,7 @@
+	https://druzya.online/episodes/7-sezon-23-seria03/
+
+	1.//h1 (Друзья 7 сезон 23 серия)
+	2.//div/h1
+	3.//h1/parent::div
+	4.//div[@class="content"] ;//div[@id="single"]
+	5.//*[@class="content"]; //*[@id="single"]
